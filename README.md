@@ -24,16 +24,16 @@
       <img width="25" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/linktree-logo-icon.svg">
     </a>
     <a href = "mailto: gutierrematheus@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
+    <a href = "https://www.linkedin.com/in/matheus-gutierre-8551381a6/">
+      <img width="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
+    <a href = "https://www.youtube.com/channel/UCTvGnzdS8GNCXiXciJt7FNg">
+      <img width="35" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
+    <a href = "https://www.instagram.com/gutierre0x80/">
+      <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
     </a>
 </div>
   
