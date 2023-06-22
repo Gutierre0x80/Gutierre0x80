@@ -22,7 +22,6 @@
   <h1 align="center">Redes Sociais</h1>
     <a href = "https://linktr.ee/gutierre0x80">
       <img width="25" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/linktree-logo-icon.svg">
-    </a>
     <a href = "mailto: gutierrematheus@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
@@ -34,6 +33,10 @@
     </a>
     <a href = "https://www.instagram.com/gutierre0x80/">
       <img width="25" src="instagram.png">
+    </a>
+    </a>
+    <a href = "https://medium.com/@gutierrematheus">
+      <img width="35" src="medium.png">
     </a>
 </div>
   
