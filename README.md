@@ -19,7 +19,7 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">social media</h1>
     <a href = "https://linktr.ee/gutierre0x80">
       <img width="25" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/linktree-logo-icon.svg">
     <a href = "mailto: gutierrematheus@gmail.com">
