@@ -2,9 +2,8 @@
 <h4>I'm Gutierre0x80.</h4>
 
 <div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Gutierre0x80&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutierre0x80&layout=compact&langs_count=16&theme=synthwave"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Gutierre0x80&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutierre0x80&layout=compact&langs_count=16&theme=bear"/>
 </div>
 <br>
 
