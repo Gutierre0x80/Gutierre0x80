@@ -22,7 +22,7 @@
    </div>
   <h1 align="center">Social Media</h1>
     <a href = "https://linktr.ee/gutierre0x80">
-      <img width="25" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/linktree-logo-icon.svg">
+      <img width="25" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png">
     <a href = "mailto: gutierrematheus@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
